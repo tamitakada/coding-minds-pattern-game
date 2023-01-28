@@ -1,0 +1,1 @@
+# coding-minds-pattern-game
